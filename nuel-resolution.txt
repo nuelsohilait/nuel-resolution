@@ -4,3 +4,4 @@ Nuel's Resolution
 - Menyelesaikan Roadmap Front End
 - Menyelesaikan Roadmap Back End
 - Mencoba Menjadi Full Stack Developer
+- Mencari Kerja Sebagai Front End/ Back End/ Full Stack Developer
