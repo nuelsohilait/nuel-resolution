@@ -1,0 +1,6 @@
+Nuel's Resolution
+- Belajar PHP, CSS, HTML
+- Belajar Framework Laravel
+- Menyelesaikan Roadmap Front End
+- Menyelesaikan Roadmap Back End
+- Mencoba Menjadi Full Stack Developer
